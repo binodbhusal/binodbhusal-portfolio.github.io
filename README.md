@@ -26,7 +26,7 @@
 
 # 📖 [Portfolio] <a name="about-project"></a>
 
-**[Portfolio]**  is my profile project with information of my Skills,Project work and other details.
+**[Portfolio]** project showcases my skills and previous work. It typically includes a homepage of my introduction, a section detailing my past projects, a section detailing my technical skills and areas of expertise, and a way to contact me. The website has a clean and professional design, is mobile-responsive, and is optimised for search engines.
 
 ## 🛠 HTML and CSS <a name="built-with"></a>
 
