@@ -39,7 +39,7 @@
 - **[Personal information and previous project works]**
 - **[Responsive]**
 - **[Graphic user interface friendly]**
-[Live Demo Link]([https://google.com](https://binodbhusal.github.io/binodbhusal-portfolio.github.io/))
+[Live Demo Link]([https://binodbhusal.github.io/binodbhusal-portfolio.github.io/])
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -58,7 +58,7 @@ In order to run this project you need:
 
 - Clone this repository to your desired folder:
 
-    Git clone:(https://github.com/binodbhusal/Hello-Microverse)
+    Git clone:(https://github.com/binodbhusal/Portfolio)
 
 - Navigate to the location of the folder in your machine:
 
