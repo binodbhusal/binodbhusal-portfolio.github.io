@@ -39,7 +39,7 @@
 - **[Personal information and previous project works]**
 - **[Responsive]**
 - **[Graphic user interface friendly]**
-[Live Demo Link](https://binodbhusal.github.io/binodbhusal-portfolio.github.io/)
+##[Live Demo Link](https://binodbhusal.github.io/binodbhusal-portfolio.github.io/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
